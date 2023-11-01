@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WildNotes/static/css/main.d3b33234.css",
+    "main.js": "/WildNotes/static/js/main.1d646304.js",
+    "static/media/logo.png": "/WildNotes/static/media/logo.9abca83d2281b29f724c.png",
+    "index.html": "/WildNotes/index.html",
+    "main.d3b33234.css.map": "/WildNotes/static/css/main.d3b33234.css.map",
+    "main.1d646304.js.map": "/WildNotes/static/js/main.1d646304.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b33234.css",
+    "static/js/main.1d646304.js"
+  ]
+}
