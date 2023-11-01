@@ -1,0 +1,12 @@
+/* Add this CSS to your existing stylesheet */
+/* This media query adjusts the layout for screens with a maximum width of 768px (adjust as needed) */
+@media (max-width: 768px) {
+    .container.my-5 {
+        padding: 0 15px; /* Add horizontal padding to the container */
+    }
+
+    .col-md-3 {
+        width: 100%; /* Make the columns take full width on small screens */
+        margin-bottom: 1rem; /* Add spacing between columns for mobile devices */
+    }
+}
